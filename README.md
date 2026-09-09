@@ -116,23 +116,22 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douniakritet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=douniakritet&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/douniakritet/douniakritet/main/profile-summary-card-output/github_dark/0-profile-details.svg" /></a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douniakritet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/douniakritet/douniakritet/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/douniakritet/douniakritet/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" /></a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douniakritet&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/douniakritet/douniakritet/main/profile-summary-card-output/github_dark/3-stats.svg" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/douniakritet/douniakritet/main/profile-summary-card-output/github_dark/4-productive-time.svg" /></a>
 </p>
 
 ---
 
 ## 🌐 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dounia-kritet/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dounia-kritet)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritetdounia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/douniakritet)
 
