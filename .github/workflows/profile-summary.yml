@@ -1,1 +1,15 @@
-name: Generate Profile Summary on: schedule: - cron: '0 0 * * *' workflow_dispatch: jobs: build: runs-on: ubuntu-latest steps: - uses: vn7n24fzkq5/github-profile-summary-cards@release with: USERNAME: douniakritet env: GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}name: Generate Profile Summary on: schedule: - cron: '0 0 * * *' workflow_dispatch: jobs: build: runs-on: ubuntu-latest steps: - uses: vn7n24fzkq5/github-profile-summary-cards@release with: USERNAME: douniakritet env: GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+name: Generate Profile Summary
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq5/github-profile-summary-cards@release
+        with:
+          USERNAME: douniakritet
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
