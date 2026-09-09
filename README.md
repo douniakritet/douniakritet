@@ -113,6 +113,23 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=douniakritet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=douniakritet&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douniakritet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douniakritet&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🌐 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dounia-kritet/)
@@ -139,4 +156,4 @@
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-</p>"# douniakritet" 
+</p>
